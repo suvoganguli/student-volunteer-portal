@@ -82,6 +82,23 @@ Your live site will auto-update via GitHub Actions 🎉
 
 ---
 
+## 🔢 Versioning Strategy
+
+We use [Semantic Versioning](https://semver.org/):
+
+- `MAJOR.MINOR.PATCH`
+  - MAJOR: Breaking changes (e.g., redesign of dashboard layout)
+  - MINOR: New features, backwards-compatible (e.g., AI matching added)
+  - PATCH: Bug fixes or small UI tweaks
+
+### Example Milestones
+- `v1.0.0` – Initial Firebase + Auth Pipeline
+- `v1.1.0` – Added Student–NPO Matching
+- `v1.2.0` – Opportunity Recommendations
+- `v2.0.0` – Admin Tools & Multi-role Support
+
+---
+
 ## 🤝 Maintained By
 
 **Suvo Ganguli**  
