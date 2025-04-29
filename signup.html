@@ -94,7 +94,9 @@
             })
             .then(() => {
               alert("Account created successfully!");
-              window.location.href = "dashboard.html";
+              setTimeout(() => {
+                window.location.href = "dashboard.html";
+              }, 100); // Give browser a moment after the alert
             })
             .catch((error) => {
               alert("Error: " + error.message);
