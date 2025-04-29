@@ -86,6 +86,6 @@ Your live site will auto-update via GitHub Actions 🎉
 
 **Suvo Ganguli**  
 Founder, [AI for Humanity Tech](https://aiforhumanitytech.org)  
-📫 suvoganguli [at] gmail [dot] com
+📫 subhabrata.ganguli@gmail.com
 
 > Using AI and ethical technology to support education, equity, and community service.
