@@ -2,9 +2,10 @@
 
 A lightweight web platform that connects MSU students with nonprofit organizations based on their interests and availability.
 
-Developed by **AI for Humanity Tech**, a nonprofit initiative using AI and accessible technology to support social good.
+Developed by **AI for Humanity Tech**, a nonprofit initiative using AI and accessible technology to support social good. 
 
 Current Version: 1.1.0
+
 ---
 
 ## 🌐 Live Demo
