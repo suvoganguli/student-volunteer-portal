@@ -16,4 +16,4 @@ jobs:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_STUDENTORGPORTAL }}
           channelId: live
-          projectId: studentorgportal
+          projectId: student-volunteer-portal 

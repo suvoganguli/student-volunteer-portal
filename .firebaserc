@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "studentorgportal"
-  }
+    "default": "student-volunteer-portal"
+  },
+  "targets": {},
+  "etags": {}
 }
