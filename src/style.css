@@ -1,0 +1,110 @@
+/* Global reset */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+/* Main white card */
+.container {
+  max-width: 700px;
+  margin: 80px auto;
+  padding: 60px 40px;
+  text-align: center;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Logo row layout */
+.logo-row {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-bottom: 30px;
+}
+
+/* Logos */
+.logo {
+  height: 120px;
+}
+
+/* Headings */
+.container h1 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Tagline text */
+.tagline {
+  font-size: 20px;
+  color: #333;
+  margin: 20px 0;
+}
+
+/* Button row */
+.button-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+/* Main buttons */
+button.main-button {
+  padding: 14px 28px;
+  font-size: 18px;
+  background-color: #007a33;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* Form elements (shared across signup, profile, etc.) */
+form label {
+  display: block;
+  text-align: left;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+form input,
+form textarea,
+form select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+form button {
+  margin-top: 30px;
+  padding: 12px 24px;
+  background-color: #007a33;
+  color: white;
+  border: none;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Fix checkbox label alignment */
+.checkbox-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
+  text-align: left;
+}
+
+.checkbox-group label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: normal;
+}
